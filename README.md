@@ -17,8 +17,8 @@ I am a motivated and enthusiastic Computer Science student who is passionate abo
 
 - Python  
 - C Programming  
-- HTML (Basic)  
-- CSS (Basic)  
+- HTML 
+- CSS  
 
 ---
 
